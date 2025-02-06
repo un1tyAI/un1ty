@@ -10,6 +10,6 @@ def personalize_output(output, user_preferences):
 
 # Example usage
 user_preferences = {"tone": "formal", "language": "French"}
-output = "This is a sample output from Hybr1d."
+output = "This is a sample output from hybr1d."
 personalized_output = personalize_output(output, user_preferences)
 print(personalized_output)
